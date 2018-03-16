@@ -5,10 +5,12 @@ Week1
  * RNN
  * GRU
  * LSTM
+
 Week2
 
  * Word2Vec Model
  * Seq2Seq Model
+
 Week3
 
  * Attention Model
